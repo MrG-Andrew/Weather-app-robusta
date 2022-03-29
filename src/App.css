@@ -17,7 +17,7 @@ body{
   transition: 0.4s ease-out;
 }
 
-.app .cold{
+.app.cold{
   background-image: url('./assets/cold.jpeg');
 }
 
